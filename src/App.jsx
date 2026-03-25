@@ -21,7 +21,7 @@ const C = {
 
 // ── Images — Cesenatico / beach lifestyle / workspace ────────────────────────
 const HERO_1 = "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1400&q=80";
-const HERO_2 = "https://images.unsplash.com/photo-1468276898467-8f7de5abe7c3?w=1400&q=80";
+const HERO_2 = "https://unsplash.com/photos/zyqta-LmYT4";
 const ROOMS  = [
   "/Bagno1.jpg",
   "/Bagno2.jpg",
@@ -35,8 +35,8 @@ const ROOMS  = [
   "/Soggiorno.jpg",
 ];
 const LIFESTYLE = [
-  "https://images.unsplash.com/photo-1498036882173-b41c28a8ba34?w=800&q=75",
-  "https://images.unsplash.com/photo-1471623432079-b009d30b6729?w=800&q=75",
+  "https://unsplash.com/photos/a-river-running-through-a-city-next-to-tall-buildings-pzD2Jr8_9pU",
+  "https://unsplash.com/photos/woman-in-black-long-sleeve-shirt-holding-white-ceramic-mug-_SzvRwdFo6o",
   "https://images.unsplash.com/photo-1530521954074-e64f6810b32d?w=800&q=75",
   "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?w=800&q=75",
 ];
